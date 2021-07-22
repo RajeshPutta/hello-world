@@ -1,9 +1,9 @@
 # hello-world
 Hello World
 
-Hi Humans,
+Hi Techies,
 
 How are you doing today
 
 Thanks
-Rajesh
+Nanteen
